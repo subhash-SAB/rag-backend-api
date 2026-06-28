@@ -1,2 +1,3 @@
-# rag-backend-api
-A Retrieval-Augmented Generation (RAG) backend that indexes ~5600 categorized user–agent conversations and retrieves relevant context to answer new queries. The system demonstrates conversational data retrieval, semantic search with FAISS, and API-based query handling.
+# RAG-backend_only
+A RAG(Retrieval-Augmented Generation) no UI base system built on top of ~5600 categorized user–agent conversations data indexes and retrieves relevant context to answer new queries. The system demonstrates conversational data retrieval, semantic search with FAISS, and API-based query handling.
+# 
